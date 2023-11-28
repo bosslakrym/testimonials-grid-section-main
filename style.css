@@ -89,9 +89,9 @@ body {
     .testimonial {
         grid-template-columns: 1fr;
     }
-    /* .card {
-        width: 100%;
-    } */
+    .card {
+        width: 350px;
+    }
     .card:nth-child(2) {
         grid-column: 1;
         grid-row: 2;
